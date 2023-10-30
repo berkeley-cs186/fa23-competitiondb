@@ -1,0 +1,26 @@
+*~
+.*.s??
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Ignore all OSX hidden files
+*.DS_Store
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+/bin/
+
+tree.dot
+
+
+# Contest DB temporary storage
+**/rookieDBStorage**
+
+# Serialized contest results
+project/serialized_contest_results

@@ -1,0 +1,2 @@
+s_suppkey int|s_name string(25)|s_address string(40)|s_nationkey int|s_phone string(15)|s_acctbal float|s_comment string(101)
+1|Supplier#000000001| N kD4on9OM Ipw3,gf0JBoQDd7tgrzrddZ|17|27-918-335-1736|5755.94|each slyly above the careful|

@@ -1,0 +1,2 @@
+o_orderkey int|o_custkey int|o_orderstatus string(1)|o_totalprice float|o_orderdate date|o_orderpriority string(15)|o_clerk string(15)|o_shippriority int|o_comment string(79)
+1|1|O|124828.11|1996-01-02|5-LOW|Clerk#000000951|0|nstructions sleep furiously among |
